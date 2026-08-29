@@ -120,7 +120,11 @@ IEEE ICIMTech 2025, first author · [📖 View on IEEE Xplore](https://doi.org/1
 
 <img src="https://streak-stats.demolab.com/?user=mewcurryy&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mewcurryy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mewcurryy/mewcurryy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mewcurryy/mewcurryy/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mewcurryy/mewcurryy/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 

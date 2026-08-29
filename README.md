@@ -115,10 +115,10 @@ IEEE ICIMTech 2025, first author · [📖 View on IEEE Xplore](https://doi.org/1
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mewcurryy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="Davin's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewcurryy&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=mewcurryy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="Davin's GitHub stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mewcurryy&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mewcurryy&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=mewcurryy&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mewcurryy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/>
 

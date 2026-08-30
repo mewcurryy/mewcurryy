@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&height=50&lines=iOS+Developer+%26+AI%2FML+Engineer;Apple+Developer+Academy+%40+BINUS;Building+with+SwiftUI%2C+CoreML+%26+Vapor;2x+IEEE-Published+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&height=50&lines=iOS+Developer+%26+AI%2FML+Engineer;Apple+Developer+Academy+Learner;Building+with+SwiftUI%2C+CoreML+%26+Vapor;2x+IEEE-Published+Researcher" alt="Typing SVG" />
 
 <br>
 

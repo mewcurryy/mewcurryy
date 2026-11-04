@@ -130,15 +130,6 @@ IEEE ICIMTech 2025, first author · [📖 View on IEEE Xplore](https://doi.org/1
 
 <br>
 
-## 🎯 Currently
-
-- 🔭 Building: **OranGo** (IoT grading system) and exploring Embedded Swift on ESP32
-- 🌱 Learning: LLM-RAG pipelines and cold-chain logistics optimization
-- 🤝 Open to: full-time iOS Developer & AI/ML Engineer roles, and interesting collaborations
-- 🐛 *"The bug is always somewhere I already looked. So I look again."*
-
-<br>
-
 ---
 
 <div align="center">
